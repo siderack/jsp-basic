@@ -15,9 +15,9 @@
 <a href="ex4.jsp">예제4</a>&nbsp;&nbsp;
 <a href="ex5.jsp">예제5</a>&nbsp;&nbsp;
 </div>
-    <ul> 
+    <ul>
         <%
-        for (int i=1; i<=10; i++) {
+        for(int i=1; i<=10; i++) {
         %>
         <li>리스트 <%=i%></li>
         <%
