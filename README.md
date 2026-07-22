@@ -20,8 +20,8 @@ docker run -p 8080:8080 my-jsp-server
 
 ### 2-a. Docker 이미지 빌드 (서버 만들기)
 
-```bash
-docker build -t my-jsp-server .
+```bashdocker build -t my-jsp-server .
+
 ```
 
 ### 2-b. 새로고침 하면 되는 Tomcat 서버 실행하기
